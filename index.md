@@ -3,7 +3,6 @@
 <html>
 
 <body>
-    you're so <b>sus</b> like impostor
     <img src="maxresdefault.jpg" />
 </body>
 
