@@ -6,7 +6,6 @@
     <body background= "maxresdefault.jpg">
 </body>
 
-    <iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=grd-K33tOSM" frameborder="0"
-    allowfullscreen></iframe>
+    <audio src="amogus.mp3" ></audio>
 
 </html>
